@@ -1,0 +1,29 @@
+﻿  main.cpp
+c:\users\zhang\onedrive\桌面\lab4\lab4\learnopengl\shader.h(65): warning C4101: “infoLog”: 未引用的局部变量
+c:\users\zhang\onedrive\桌面\lab4\lab4\learnopengl\shader.h(64): warning C4101: “success”: 未引用的局部变量
+c:\users\zhang\onedrive\桌面\lab4\lab4\learnopengl\model.h(215): warning C4838: 从“TReal”转换到“GLubyte”需要收缩转换
+          with
+          [
+              TReal=ai_real
+          ]
+c:\users\zhang\onedrive\桌面\lab4\lab4\learnopengl\model.h(215): warning C4244: “初始化”: 从“TReal”转换到“GLubyte”，可能丢失数据
+          with
+          [
+              TReal=ai_real
+          ]
+c:\users\zhang\onedrive\桌面\lab4\lab4\learnopengl\main.cpp(41): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\users\zhang\onedrive\桌面\lab4\lab4\learnopengl\main.cpp(197): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhang\onedrive\桌面\lab4\lab4\learnopengl\main.cpp(234): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\zhang\onedrive\桌面\lab4\lab4\learnopengl\main.cpp(324): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhang\onedrive\桌面\lab4\lab4\learnopengl\main.cpp(325): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhang\onedrive\桌面\lab4\lab4\learnopengl\main.cpp(329): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhang\onedrive\桌面\lab4\lab4\learnopengl\main.cpp(330): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhang\onedrive\桌面\lab4\lab4\learnopengl\main.cpp(332): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhang\onedrive\桌面\lab4\lab4\learnopengl\main.cpp(333): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhang\onedrive\桌面\lab4\lab4\learnopengl\main.cpp(342): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  1 of 1014 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  LearnOpengl.vcxproj -> C:\Users\zhang\OneDrive\桌面\lab4\lab4\Release\LearnOpengl.exe
